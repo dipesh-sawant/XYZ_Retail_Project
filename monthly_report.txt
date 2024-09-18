@@ -1,0 +1,3 @@
+Monthly Sales Report
+Total Sales: ₹688000
+Average Daily Sales: ₹22933.33
